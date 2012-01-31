@@ -1,0 +1,7 @@
+An extensible and simplistic console app to attempt to roll back a VS2010 project to open in VS2008, checking out files in TFS where necessary.
+
+Uses Castle Windsor for IoC.
+
+You can specify different VCS implementations using the IVersionControl interface.
+
+You can specify different file manipulation implementations using the IFileManipulation interface; see the ClassFileManipulation for an example of making all public classes in a solution Serializable.
