@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollbackToVS2008", "RollbackToVS2008.csproj", "{114D0BA9-C33F-4D9F-AFE1-B2E318C58EA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{114D0BA9-C33F-4D9F-AFE1-B2E318C58EA0}.Debug|x86.ActiveCfg = Debug|x86
+		{114D0BA9-C33F-4D9F-AFE1-B2E318C58EA0}.Debug|x86.Build.0 = Debug|x86
+		{114D0BA9-C33F-4D9F-AFE1-B2E318C58EA0}.Release|x86.ActiveCfg = Release|x86
+		{114D0BA9-C33F-4D9F-AFE1-B2E318C58EA0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
